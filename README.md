@@ -5,4 +5,4 @@ successfully completed with the highest grade
 
 # DataLens dashboard 
 
-[![Dashboard Preview](datalens_dashboard.png)](https://anton-fedarenka.github.io/datalens_dashboard/)
+[![Dashboard Preview](datalens_dashboard.png)](https://datalens.yandex/gq4y3wn8jwhc2?_no_controls=1)
